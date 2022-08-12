@@ -1,0 +1,253 @@
+Onboarding_1
+
+1. A cell can have no nucleus and a cell can have more than one nucleus?
+ a. True
+
+2. Where is DNA concentrated?
+  b. In our cells
+ c. In cellular nuclei
+ 
+3. The human body is typically comprised of how many cells?
+  d. 37,000,000,000,000
+
+4. What percentage of our bodies are comprised of proteins?
+  c. 15%
+
+5. What are proteins made out of?
+  c. amino acids
+
+6. Hormones are proteins.
+ a. True
+
+7. Enzymes are proteins.
+ a. True
+
+8. DNA are proteins.
+ a. True
+
+9. Why are proteins the most important life molecules? Select all that apply.
+ a. They form the structural parts of the cell
+ b. They control all cellular processes including metabolic processes
+ c. They control neurological processes
+ d. Only living things can make proteins
+
+10. What is a phenotype and what is a genotype?
+ a. Genotype is the allelic composition of a gene, and phenotype is any physical or
+ measurable characteristic formed as a result from the genotype
+
+11. What do the words homozygous and heterozygous describe?
+ c. genotypes
+ 
+12. What is a zygote?
+ d. a fertilized egg cell
+
+13. How long is the human genome?
+ c. 3.000.000.000 bases
+
+14. What is a genome?
+ a. the set of all bases in an organism
+
+15. What is a whole genome?
+ a. the same as the genome
+
+16. What is the name of the most elementary building block of a DNA molecule?
+  d. nucleotide
+
+17. What are the three parts of a nucleotide ... ?
+ a. phosphate group c. nitrogenous base
+ d. pentose sugar
+
+18. List the four bases of the genetic code?
+ a. C,T,G,A
+
+19. What does the genetic code encode?
+  b. proteins 
+
+20. What is the name of a unit of code in the genetic code?
+  c.code
+
+21. Which two bases are linked by triple hydrogen bonds and which by double
+ hydrogen bonds?
+  c. A and T are linked by double hydrogen bonds while C and G are linked by triple
+  bonds
+
+22. DNA molecules have a direction, what is this direction?
+ a. Down stream
+ b. 5' to 3'
+ 
+ d. Up stream
+ c. 3' to 5'
+
+23. What does this directionality mean?
+  b. Each nucleotide is attached to it's previous nucleotide at the 5' carbon and to it's
+ successive nucleotide at the 3' carbon.
+ 
+24. What are the elementary states of life of a cell?
+ a. interphase 
+
+25. What percentage of time is a cell in interphase?
+ d. 90%
+
+26. What does the cell not do during interphase?
+ d. divides
+
+27. What is the name of the fundamental unit of chromatin?
+  d. nucleosome
+
+28. How many chromosomes does each somatic cell nucleus in our bodies
+ contain?
+ a. 46 
+
+29. How many of these chromosomes did we inherit from our mother and how
+ many from our father?
+  c. 23 and 23
+
+30. What word do we use to describe this phenomenon?
+  c. diploidy
+
+31. How many chromosomes in total make up our autosomal chromosomes?
+ a. 22 
+
+32. Autosomal chromosomes are enumerated from longest to shortest.
+ a. True
+
+33. What are the two cell lines in the human body?
+ a. somatic
+ c. germline
+
+34. What is the difference between heterochromatin and euchromatin?
+ a. Euchromatin is active chromatin and heterochromatin is inactive chromatin
+ 
+35. What is epigenetics?
+ a. the study of genome programs within different cells
+
+36. What are the two tasks that DNA can perform?
+ a. Replicate itself
+ b. Transcribe itself
+
+37. The directions of DNA replication and transcription are always down stream,
+from 5' to 3'.
+ a. True
+
+38. What type of molecular machine is in charge of both synthesizing and
+transcribing DNA?
+ c. Polymerase
+
+39. Which polymerase molecule is used to synthesize DNA?
+ b. DNA polymerase
+
+40. Which polymerase molecule is used to synthesize a transcript?
+ b. RNA polymerase II
+ 
+41. Why do "Okazaki fragments" appear on the lagging strand during DNA
+replication?
+ a. These fragments appear on the lagging strand, because the downstream (5' - 3')
+ direction of the lagging strand is opposite the direction of helicase's denaturing activity.
+ 
+42. What is the term used to describe the point on the DNA chain where replication
+of DNA begins?
+ b. origin of replication
+
+43. We can have hundreds and even thousands of origins of replication on a single
+ chromatin strand.
+ a. True
+
+44. The Central Dogma states that....
+ b. DNA contains a library of instructions on how to make proteins
+
+45. Gene transcription occurs in the cytoplasm.
+ b. False
+
+46. Transcript translation occurs in the cytoplasm.
+ a. True
+ 
+47. There are 20 amino acids in the genetic code (22 in total for most organisms).
+  b. True
+
+48. A variant in our DNA is the same thing as a mutation.
+ a. False
+
+49. There are ______ possible types of variants.
+ d. 5 - -6
+
+50. There are ______ essential types of mutations.
+ a. 3
+
+51. SNPs are SNVs that are present in more than ____% of the population.
+ c. 1
+
+52. SNVs and SNPs are both point mutations.
+ b. False
+
+53. Check the three essential types of mutations.
+ a. Synonymous c. Misense
+ d. Nonsense
+
+54. Write down what are the five - six possible types of DNA variation.
+ a. INDELs, Translocations, Inversions, SNVs and CNVs
+
+55. What kind of RNA molecule is a DNA transcript?
+ a. messenger RNA, i.e., mRNA
+ 
+56. What are the differences between DNA and RNA?
+ a. DNA is double stranded while RNA is single stranded
+ c. DNA uses Thymine, while RNA uses Uracil
+
+57. What do we call a region of DNA that does not code for a protein?
+ c. non-coding DNA
+
+58. If a CNV or an insertion occurs in a non-coding region of DNA, this will affect all
+ underlying genes.
+ b. False
+
+59. When an insertion or a deletion occur within a coding region, the resulting
+ mutation is a ______ mutation.
+ b. frame shift
+
+60. What are promoters?
+ b. small cis-acting regulatory regions before a gene that signify where the gene
+ starts.
+
+61. What are transcription factors?
+ c. proteins that bind to promoters and signal DNA polymerase to transcribe the gene
+
+62. Enhancers are exclusively cis-acting gene regulatory regions
+ a. True
+
+63. Introns are the coding parts of a gene?
+ b. False
+
+64. Intron is a shorthand for _______ region.
+ c. Involved
+
+65. Exons are "expressed" sequences.
+ a. True
+
+66. Alternative splicing means that one gene can code for several different
+transcripts.
+ a. True
+
+67. Which molecule is the subject of splicing?
+ b. mRNA
+
+68. What molecule is responsible for alternative splicing of mRNA?
+  c. Spliceosome
+
+69. What percentage of our DNA sequences do we share with any other human
+being?
+ b. 99.9%
+
+70. If there are 1,500,000 possible SNPs in a haploid cell of organism X, how many
+possible configurations of different SNP values exist in a diploid cell of organism
+X? Note: Remember, germline cells are haploid cells and somatic cells are diploid
+cells.
+ a. 2^3,000,000
+ b. 3,000,000^2
+ c. 4^3,000,000 I think it is a.
+
+
+
+
+
+
+
