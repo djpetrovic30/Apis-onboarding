@@ -1,0 +1,160 @@
+1. How many DNA-seq secondary analysis pipelines do we support?  
+ c. 3
+
+2. These pipelines are __________, _____________ and _____________.
+ a. Whole Genome Seq c. Whole Exome Seq
+ d. Targeted Seq
+
+3. Coverage is a term used to describe......
+ a. The average number of reads that cover a locus
+
+4. 4. Whole genome analysis is used to discover novel variants.
+ a. True
+
+5. Whole exome analysis is used to detect coding variants.
+ a. True
+
+6. Targeted seq analysis is used to detect wild type non-coding variants. 
+ b. False
+
+7. We use targeted seq to analyze variants in a small set of ___gene(s)___ . Typically 1000. (1000 samples)
+ 
+
+8. Targeted seq library prep facilitates ~_______X coverage of the targeted region. 
+ b. 1000 i think
+
+9. Whole genome library prep entails the lowest coverage of the three DNA-seq analyses.
+ a. True 
+
+10. What are the relative coverages of WGS, WES and TRS? 
+ b. ~30, ~100, ~1000
+
+11. We use the GATK to perform alignment post-processing, variant calling and post-variant processing. 
+ a. True
+
+12. The BWA- aligner produces BAM files.
+ a. True I think (or produces SAM files and we convert SAM to BAM?)
+
+13. The BWA-MEM wrapped version (version on SBPLA) of the aligner produces BAM files. 
+ b. False 
+
+14. What three pre-variant calling/post-alignment steps must we perform.
+ b. Indel Realignment
+ c. De-duplication of duplicate reads
+ d. Base quality score recalibration
+
+15. INDEL realignment is performed first.
+ b. False
+
+16. Realignment around INDELs is performed because....
+ a. INDEL may result in a series of mismatches which affect the variant calling process
+
+17. Base Recalibration is performed because....
+ a. Sequencers can produce overconfident base quality scores
+
+18. De-duplication of reads is performed because.....
+ a. duplicate reads mess up coverage of loci and thus variant calling
+
+19. If we want to view FASTQ read statistics we must pass our FASTQ file through which of the following tools?
+ a. FASTQmcf
+ b. FASTQC
+ c. FASTQH ???
+
+20. FASTQ read quality scores are expected to decrease base by base. 
+ a. True
+
+21. What is the difference between empirical quality scores and reported quality scores?
+ b. Empirical quality scores are mapping scores while reported scores are base call scores.
+ 
+22. How many possible covariates are there for base quality score recalibration?
+ a. 3
+ b. 4
+ c. 5  ???
+
+23. We recalibrate our base quality scores in order to reduces the qualities of overconfident base calls. 
+ a. True i think
+
+24. We use databases such as dbSNP to detect and recalibrate base quality score errors. 
+ a. True i think
+
+25. Why is it important to do INDEL realignment first before base quality score recalibration?
+ a. base quality scoring takes mismatches into context, realignment may resolve previously detected mismatches
+
+26. Systematic errors during iLLUMINA sequencing where non-fluorescent nucleotides are incorporated in the growing complementary DNA chain
+may be reported as SNPs or DELETIONS.
+ b. True i think
+
+27. Systematic errors during iLLUMINA sequencing where several non-fluorescent nucleotides followed by a
+fluorescent nucleotide is a repetition of question 26. 
+ a. True
+ b. False ???
+
+28. Systematic errors during iLLUMINA sequencing where terminating groups seise to detach themselves from labeled nucleotides result in
+DELETIONS. 
+ a. True
+ b. False ???
+
+29. Two categories of variant callers are ___________ and____________.
+ a. General
+ b. Somatic
+
+30. General callers are typically SNV/INDEL callers. 
+ a. True
+
+31. Two callers that are commonly used on the SBPLA are GATK ____________ and GATK _____________.
+ b. HaplotypeCaller
+ c. UnifiedGenotyper
+
+32. Humans are diploid organisms. This means that we have two homologous sets of whole genomic material in each of our cells. 
+ a. True
+
+33. A human genotype has two ____________.
+ c. alleles
+
+34. Joint callers call variants simultaneously for many samples.
+ a. True
+
+35. GATK ____________ can perform joint calling. 
+ a. FreeBayes
+ b. HaplotypeCaller
+ c. UnifiedGenotyper ???
+
+36. Variant callers perform variant calling and ____________ .
+ a. allele calling
+ b. genotyping
+ c. phasing ???
+
+37. GATK HaplotypeCaller is license free as opposed to UnifiedGenotyper.
+ a. True
+ b. False ???
+
+38. HaplotypeCaller and UnifiedGenotyper use Bayes Theorem to infer plausible variants.
+ a. True I think
+
+39. The known set of variants used in Bayes Theorem can be found in database file such as _________.
+ a. dbSNP
+ b. SEQ
+ c. Mills ???
+
+40. Variant callers produce _______ files. 
+ c. VCF 
+
+41. VCF files have 7 important columns. What columns are these? 
+ a. chromosome, position, id-name in database (if variant is known), reference value, alternate value(s), quality score and genotype
+
+
+42. VCF stands for _____________.
+ c. Variant Call Format
+
+43. What is a haplotype?
+ b. A group of proximally close loci are physically inherited together (on the same copy of a chromosome) frequently in a population
+
+44. If two variants are in phase, this means that they are located on the same ___________. 
+ a. Sequence
+ b. Marker
+ c. Flanking sequence ???
+
+45. What does the following genotype in a VCF record mean: 0/2 ? 
+ a. Heterozygous reference genotype for the second alternative allele
+ b. Homozygous reference genotype for the second alternative allele
+ c. Heterozygous alternative genotype for the zeroth allele ???
