@@ -1,0 +1,98 @@
+1. What is cancer? 
+ c. Pathological mitosis
+
+2. What are driver mutations? 
+ a. Mutations that progress pathological mitosis forward
+
+3. What is the two hit hypothesis? 
+ b. Describes the need for both alleles of a tumor suppressor gene to be mutated in order for cancer to be assumed
+
+4. Which theory of cancer origin is widely supported today? 
+ a. Proto-oncogenic theory
+
+5. Which two classes of genes are responsible for the onset of oncogenesis? 
+a. Oncogenes
+c. Tumor Suppressors or TSs
+
+6. How many hallmarks of cancer are there?
+ c. 5
+
+7. What are the five hallmarks or "drivers" of cancer? 
+a. Rapid mitosis of cells d. Cellular mobility
+e. Angiogenesis (signaling blood vessels to extend towards them)
+c. Defective stop mechanism for mitosis f. Immortality (constantly elongated telomeres)
+
+8. What is a mutagen? 
+b. Any substance or physical effect that can cause a mutation in DNA
+
+9. Which tissue type is most exposed to mutagens? 
+c. Epithelial
+
+10. If both alleles of a tumor suppressor gene are mutated/blocked, what happens?  
+c. The cell becomes cancerous. 
+
+11. What is the difference between an adenoma and a carcinoma? 
+b. A carcinoma is typically malignant while a adenoma is benign. 
+c. Both are tumors.
+
+12. Explain what is a signaling cascade or a signaling pathway.
+a. Signal transduction from outside the cell, that leads to a pathway of protein activations eventually leading to mitosis.
+c. The communication method used by cells for intracellular communication
+
+13. (Primary) Tumor heterogeneity is the same as clonal heterogeneity?
+b. False
+
+14. Remission means that the tumor has subsided.
+a. True
+
+15. Relapse means that the tumor has subsided. 
+b. False
+
+16. The father of chemotherapy is ________________ .
+c. Sydney Farber
+
+17. Viruses can also cause cancer. 
+a. True 
+
+18. Primary tumor means ____________.
+a. The origin of the tumor initially prior to any metastasis
+
+19. What is an example of a liquid tumor? 
+c. Acute Myeloid Leukemia
+
+20. Which types of genomic variants are very present in tumors?
+a. SNPs
+b. Translocations
+c. CNVs    ???
+
+21. An example of a gene fusion is the Philadelphia chromosome. 
+a. True 
+
+22. What were the first two therapeutic methods for fighting cancer? 
+b. Surgery
+c. Radiotherapy
+
+23. What are the differences between primary and secondary prevention? 
+a. Primary prevention means keeping away from mutagens, secondary prevention means regular screening for any possible sign of
+tumor
+
+24. An example of secondary prevention is ____________ .
+c. Mammogram 
+
+25. An example of primary prevention is ______________.
+a. Don't smoke
+
+26. There are two types of breast cancers. Which are they?
+b. ER + and ER -
+
+27. Kinase inhibitors are a type of _________________.
+b. Signaling pathway blockers
+
+28. Monoclonal Antibodies do what?
+b. Target cancer cells for destruction by the immune system
+
+29. Personalized medicine relies on genomic profiling of cancer patients. 
+  a. True
+
+30. One of the biggest problems in personalized medicine is ___________________ . 
+b. Tumor clonal heterogeneity 
