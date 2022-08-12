@@ -1,0 +1,178 @@
+1. What procedure do we perform to read out an entire genome?
+ b. Sequencing
+
+2. ____________ is a procedure for analyzing the differences between two genomes of the same species.
+ b. Variant Calling
+
+3. What molecular machine is responsible for unwinding and denaturing complementary strands upon transcription and replication?
+ a. DNA Helicase
+
+4. What was the name of the method that Fred Sanger used for sequencing DNA?
+ b. Chain Termination method
+
+5. What is the name of the type of nucleotides used in Chain Termination seq?
+ a. dideoxy nucleotides or ddNTPs
+
+6. When current flows accross an electrophoresis gel, larger/longer molecules travel faster than shorter ones.
+ b. False
+
+7. The technique of isolating DNA fragments according to their length along an electrophorsis gel is referred to as....
+ b. Southern blotting
+
+8. What is the name of the class of sequencing technologies that is in use today?
+ a. Next Generation Sequencing
+
+9. NGS technologies heavily rely on the sequencing by _________ approach.
+ a. Synthesis
+
+10. What does Sequencing by synthesis mean? What is being synthesized?
+ b. DNA
+
+11. What is the name of the chemical reaction that facilitates DNA synthesis?
+   PCR
+
+12. Thermo cycling is the thermal control procedure by which we control polymerase acitivity.
+ a. True
+
+13. What happens to polymerase if we increase the temperature above 100C?
+ a. Disintegrates
+
+14. What is the name of the polymerase that we use today for DNA synthesis?
+    Taq polymerase
+
+15. Can polymerase work without a primer?
+ b. No
+
+16. How do we anneal a primer to it's complementary region on a single stranded DNA, without the use of polymerase?
+ a. Hybridization
+
+17. What kind of a reaction is a reaction in which two independent DNA molecules are appended together?
+ b. Ligase reaction
+
+18. GC bias is the result of what?
+ a. strong hydrogen bonds between G and C
+
+19. What are the two most widely used NGS technologies today? Check all that apply.
+ a. CRT/TIRF
+ b. SMRT
+
+20. What are the differences between these two technologies? Check all that apply. Check all that apply.
+ a. molecular immobilization
+ b. cycles vs. realtime
+ c. template preparation
+
+21. illumina is the biggest manufacturer of SMRT sequencing technologies.
+ b. False
+
+22. What is the difference between a fragment, an insert, a template and a read?
+     DNA fragment is result of DNA fragmentation the separation or breaking of DNA strands into pieces.
+     insert is a piece of DNA that is inserted into a larger DNA vector
+     DNA template strand is used by the enzyme DNA and RNA polymerases to be copied into DNA or RNA
+     Read is sequence made by sequencing machine
+     
+23. How is fragmentation of genomic DNA performed?
+  c. Sonication
+
+24. Adapters are primers and primer complements.
+ a. True
+ 
+25. Why does illumina use cluster amplification of templates?
+ a. To increase photo-sensitivity
+
+26. After "x" thermo-cycles in the the c-bot machine during cluster prep, how many copies of each individual template does each cluster contain?
+ a. 2^x
+
+27. What is the name of the glass slide used by illumina, for sequencing?
+ b. Flow Cell
+
+28. How many lanes can a slide house?
+ a. Eight
+
+29. Lanes are divided into .....?
+ c. Tiles
+
+30. Typically how many clusters can we find per tile?
+ a. 30.000
+
+31. What is the name of the amplification technology used by iLLumina?
+ b. Clonal Bridge Amplification
+
+32. How many pictures are take per cycle using illumina seq?
+ d. 4
+
+33. What is the biggest problem with SMRT sequencing?
+ c. Dark nucleotides
+
+34. What is immobilized in SRMT?
+ b. Polymerse
+
+35. SMRT uses clonal bridge amplification. 
+ b. False
+
+36. SMRT reads can be 10.000 bp long. 
+ a. True
+
+37. Reads are stored in text files.
+ a. True
+
+38. How are these files encoded?
+ b. ASCII
+
+39. What is the name of the text file which stores reads and read data?
+ b. FASTQ
+
+40. FASTQ files are comprised of ________ .
+ c. records
+
+41. Each record contains two parts..... Check all that apply.
+ a. nucleotide sequence
+ c. quality score sequence
+
+42. The quality scores of nucleotide sequences are based on.......
+ b. Fluorescent intensitites of base calls
+
+43. The name of the algorithm that performs quality scoring is...
+ c. Phred
+
+44. The quality scores for each nucleotide are encoded according to .....
+ c. ASCII table
+
+45. Quality scoring can use different scales. These scales are related to what in the ASCII table?
+ a. Start and stop intervals
+ b. ASCII table start offsets   ???
+ c. ASCII table window
+
+46. Which scales are typically used by GATK suite tools, when illumina reads are in question? Check all that apply.
+ a. Sanger
+ b. illumina 1.8  ???
+ c. illumina 1.3
+
+47. Analytically, quality scores are log transformed ______.
+ a. base calls
+
+48. Why do we encode this transformation using ascii?
+ a. To save space in memory
+
+49. Typically how long are illumina DNA templates?
+ d. 200bp
+
+50. Why do we perform paired-end sequencing?
+  Paired-end sequencing allows users to sequence both ends of a fragment and generate high-quality, alignable sequence data.
+  Paired-end DNA sequencing reads provide high-quality alignment across DNA regions containing repetitive sequences, and produce long contigs for de novo sequencing by filling gaps in the consensus sequence.
+  Also detects common DNA rearrangements such as insertions, deletions, and inversions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
