@@ -1,0 +1,133 @@
+1. What part of a template, when sequenced, is represented as a read? 
+ d. Insert
+
+2. Reads are stored in ASCII text files.
+ a. True
+ 
+3. Reads are organized into records. 
+ a. True
+
+4. Which type of text file stores read records?
+ c. FASTQ
+
+5. Read records contain (check all that apply)
+ a. Header line c. Nucleotide sequence line
+ d. Quals sequence line
+
+6. Records in FASTQ files are spaceless.
+ a. True
+
+7. Read nucleotide sequences within a record are wrapped at 80 characters. 
+ a. True I think
+
+8. The ideal number of lines per record in a FASTQ file is ________.
+  b. 4
+
+9. FASTQ is actually a combination of two files. These two files are the...
+ a. FASTA and FASTAP c. FASTA and QUALS
+ b. QUALS and FASTAP d. QUALS and FASTAN ???
+
+10. What two types of genome reconstruction algorithms are used to reconstruct the genome from reads or contigs found within the FASTQ or
+FASTA files?
+  b. Assembly and alignment 
+
+11. What is the algorithmic complexity of assembly algorithms?
+ a. O(n ) c. O(nm) 2   c. correct
+ b. O(n-m) d. O(n ) m  ??? 
+
+12. One of the biggest problems with assembly algorithms is that they use up too much memory? 
+ a. True
+
+13. Alignment is less complex than assembly. 
+ a. True
+
+14. Alignment algorithms have a linear complexity of O(nm).
+ a. True
+ b. False ??? 
+
+15. Which alignment algorithms do we generally use for whole genome alignment on SBPLA? 
+ d. Burrows Wheeler Aligner
+
+16. The Burrows-Wheeler Aligner uses a BW Transform as a searchable structure for efficient substring matching.
+ a. True
+
+17. The Smith-Waterman aligner is a local aligner. 
+ a. True
+
+18. All non Exact Match aligners are based on a scoring scheme for determining the best alignments. 
+ a. True
+
+19. Assembly algorithms use the reference genome.
+ a. True
+
+20. The reference genome is used to make the BWT.
+ a. True 
+
+21. Smith-Waterman aligners are local aligners.
+ a. True 
+
+22. CIGAR strings are found in FASTQ files. 
+ b. False
+
+23. BAM files are __________ SAM files. 
+ b. Binary
+
+24. BAM stands for __________.
+ b. Binary Sequence Alignment Map
+
+25. CIGAR string are important for which variant calling data preprocessing step? 
+ b. Realignment around indels
+
+26. BAM files can be _____________ or ____________ sorted. 
+ a. Coordinate
+ b. Queryname
+
+27. The main columns in the BAM format are......
+ a. Reference chromosome
+ b. Mapping position
+
+28. BAM files must be _____________ sorted in order to create a BAI file for them. 
+ b. Coordinate
+
+29. Two main institutions that curate reference genomes are _____ and _______?
+    Genome Reference Consortium (GRC) and
+    University of California, Santa Cruz (UCSC)
+
+30. The main difference between GRCh and Hg reference genomes is in _________.
+ a. contig nomenclature
+
+31. FASTA index files are used to __________ access FASTA files. 
+ a. randomly 
+
+32. FAI files have exact lengths of contigs in terms of nucleotides. 
+ a. True 
+
+33. BED files are ___________ files.
+ a. interval files 
+ b. annotation files
+ c. both ???
+
+34. Two step aligners have which two steps?
+ a. seed
+ b. extend
+ c. elongate ???
+
+35. What does this CIGAR string mean: 1S10M10D3H ?
+   1 soft clip 10 matches 10 deletions 3 hard clip
+
+36. How large are BAM files typically? 
+ b. 10GB - 100GB I think
+ 
+37. BAM files are compressed SAM files.
+ a. True 
+
+38. BAM Index files or BAI files contain which two types of data? 
+ a. Block number 
+ b. Aligment line number within the block ??? it's a companion to our bam that contains the index. 
+ c. Sort number
+
+39. BAM file reference sequences begin with 0 while SAM file reference seqs begin with 1.
+ a. True 
+
+40. The BWA-MEM is the aligner used to produce SAM files on the SBPLA.
+ a. True 
